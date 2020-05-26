@@ -1,6 +1,6 @@
 # Pytorch
 
-This repoitory contains the content for the course based on Pytorch and contains the fundamentals of when coding with Pytorch. It deals with the following topics: 
+This repository contains the content for the course based on Pytorch and contains the fundamentals of when coding with Pytorch and Pytorch zero to GANs. It deals with the following topics: 
 1. PyTorch Matrices
 2. PyTorch Fundamentals - Variables and Gradients
 3. Linear Regression with PyTorch
