@@ -9,3 +9,4 @@ This repository contains the content for the course based on Pytorch and contain
 6. Convolutional Neural Networks (CNN) with PyTorch
 7. Recurrent Neural Networks
 8. Long Short Term Memory Networks
+9. Generative Adversarial Networks
