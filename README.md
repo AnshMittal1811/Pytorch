@@ -11,5 +11,3 @@ This repository contains the content for the course based on Pytorch and contain
 8. Long Short Term Memory Networks
 9. Residual Networks (ResNets)
 10. Generative Adversarial Networks
-
-![AVI](https://github.com/AnshMittal1811/Pytorch/blob/master/Udemy%20-%20Pytorch%20zero%20to%20gans/gans_training.avi "AVI")
