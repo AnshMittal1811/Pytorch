@@ -10,4 +10,4 @@ This repository contains the content for the course based on Pytorch and contain
 7. Recurrent Neural Networks
 8. Long Short Term Memory Networks
 9. Residual Networks (ResNets)
-10. Generative Adversarial Networks
+10. Generative Adversarial Networks (GANs)
